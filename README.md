@@ -1,1 +1,2 @@
 # Guess-My-Number
+Guess My Number is a classic game of logic and strategy that has been around for centuries. It has been reimagined in the modern age using JavaScript. This game requires players to guess a randomly generated number within a certain range. Players must use their logical reasoning skills to determine the correct number before the allotted time runs out. By participating in this game, players can hone their problem-solving skills and gain an understanding of how computers think and operate.
